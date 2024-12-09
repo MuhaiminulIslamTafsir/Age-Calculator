@@ -19,4 +19,4 @@ A simple desktop application built with PyQt5 that calculates a person's exact a
 
 1. Make sure you have Python installed on your system
 2. Install PyQt5 using pip:
-
+![Age Calculator Screenshot](C:\Users\User\Downloads\Tafsir.png)
